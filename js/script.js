@@ -1,5 +1,11 @@
 // Complete Day 1 goals here
 
+
+
+
+
+
+
 function displaySongInfo() {
   // Complete the Day 2 goals inside this function
 }
